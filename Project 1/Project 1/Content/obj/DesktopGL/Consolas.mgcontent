@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Zay/Documents/Visual Studio 2015/Projects/COMP 565/Project 2/Project 1/Project 1/Content/Consolas.spritefont</SourceFile>
+  <SourceTime>2017-05-13T20:26:57.2106925-07:00</SourceTime>
+  <DestFile>C:/Users/Zay/Documents/Visual Studio 2015/Projects/COMP 565/Project 2/Project 1/Project 1/Content/bin/DesktopGL/Consolas.xnb</DestFile>
+  <DestTime>2017-05-14T23:26:34.455821-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-29T23:36:08-07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-29T23:36:08-07:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

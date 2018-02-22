@@ -1,0 +1,246 @@
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x100x100brick.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x50x100Marker.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\boundingSphereV8.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\cloudV3.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\colorTexture.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\dogV6.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\heightTexture.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\inspectorBackground.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\magentaAvatarV6.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble_0.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\redAvatarV6.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\templeV3.xnb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.exe
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.pdb
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\NVorbis.dll
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+c:\users\zay\documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Users\Computer\Desktop\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+C:\Users\Computer\Desktop\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x100x100brick.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x50x100Marker.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\boundingSphereV8.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\cloudV3.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\colorTexture.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\dogV6.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\heightTexture.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\inspectorBackground.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\magentaAvatarV6.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble_0.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\redAvatarV6.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\templeV3.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.exe
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.pdb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Computer\Desktop\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\Consolas.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasure.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\oceanRock.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\seaweed.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2Open.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\fish.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\gem.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x100x100brick.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x50x100Marker.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\boundingSphereV8.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\cloudV3.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\colorTexture.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\Consolas.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\dogV6.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\fish.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\gem.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\heightTexture.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\inspectorBackground.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\magentaAvatarV6.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble_0.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\oceanRock.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\redAvatarV6.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\seaweed.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\templeV3.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasure.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2Open.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.exe
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.pdb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\temple.xnb
+C:\Users\Computer\Desktop\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\crab.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x100x100brick.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x50x100Marker.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\boundingSphereV8.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\cloudV3.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\colorTexture.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\Consolas.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\crab.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\dogV6.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\fish.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\gem.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\heightTexture.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\inspectorBackground.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\magentaAvatarV6.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble_0.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\oceanRock.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\redAvatarV6.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\seaweed.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\temple.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\templeV3.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasure.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2Open.xnb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.exe
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.pdb
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Zay\Documents\visual studio 2015\Projects\COMP 565\Project 1\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x100x100brick.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x50x100Marker.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\boundingSphereV8.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\cloudV3.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\colorTexture.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\Consolas.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\crab.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\dogV6.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\fish.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\gem.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\heightTexture.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\inspectorBackground.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\magentaAvatarV6.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble_0.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\oceanRock.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\redAvatarV6.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\seaweed.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\temple.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\templeV3.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasure.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2Open.xnb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.exe
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.pdb
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\KFC\Documents\311\without graph cs\Project 1\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x100x100brick.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x50x100Marker.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\boundingSphereV8.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\cloudV3.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\colorTexture.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\Consolas.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\crab.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\dogV6.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\fish.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\gem.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\heightTexture.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\inspectorBackground.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\magentaAvatarV6.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble_0.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\oceanRock.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\redAvatarV6.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\seaweed.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\temple.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\templeV3.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasure.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2Open.xnb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.exe
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.pdb
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Computer\Desktop\Project 1 S\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x100x100brick.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x50x100Marker.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\boundingSphereV8.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\cloudV3.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\colorTexture.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\Consolas.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\crab.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\dogV6.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\fish.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\gem.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\heightTexture.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\inspectorBackground.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\magentaAvatarV6.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble_0.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\oceanRock.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\redAvatarV6.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\seaweed.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\temple.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\templeV3.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasure.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2Open.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.exe
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.pdb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 1 S\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
+C:\Users\KFC\Documents\C565MAY\Project_1_S (1)\Project 1 S\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+C:\Users\KFC\Documents\C565MAY\Project_1_S (1)\Project 1 S\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\obj\x86\Debug\Project 1.exe
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\obj\x86\Debug\Project 1.pdb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x100x100brick.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\100x50x100Marker.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\boundingSphereV8.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\cloudV3.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\colorTexture.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\Consolas.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\crab.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\dogV6.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\fish.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\gem.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\heightTexture.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\inspectorBackground.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\magentaAvatarV6.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\marble_0.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\oceanRock.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\redAvatarV6.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\seaweed.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\temple.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\templeV3.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasure.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Content\treasureV2Open.xnb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.exe
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\Project 1.pdb
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Zay\Documents\Visual Studio 2015\Projects\COMP 565\Project 2\Project 1\Project 1\obj\x86\Debug\Project 1.csprojResolveAssemblyReference.cache
